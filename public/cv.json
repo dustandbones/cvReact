@@ -1,0 +1,202 @@
+{
+	"ES": {
+		"name" : "Juan Perez",
+		"profession" : "Desarrollador de Software",
+		"profile" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"personalData" : {
+			"nacionality" : "Nacionalidad",
+			"birth" : "XX.XX.XXXX",
+			"language" : "Idioma",
+			"mail" : "xxxxxxxxxxx@xxxxx.xxx",
+			"phone" : "xxxxxxxx",
+			"repo" : "https://xxxxxxxxxxx.com"
+		},
+		"actualPosition" : {
+			"range" : "Software Developer in some Company",
+			"tasks" : "",
+			"technologies" : "Jquery - NodeJS - HTML5",
+			"dateStart" : "2016-06-01"
+		},
+		"featuredTechnologies":["react", "vuejs", "jquery"],
+		"workExperience" : [{
+				"company" : "Some Company",
+				"since" : "Since 2000",
+				"until" : "Present",
+				"position" : "Software developer and Others - Jquery - NodeJS - HTML5 - .NET - C# - Otros."
+			},
+			{
+				"company" : "Some Other Company",
+				"since" : "Enero 2010",
+				"until" : "Febrero 2014",
+				"position" : "DSoftware developer and Others"
+			},
+			{
+				"company" : "Some Other Company",
+				"since" : "Octubre 2014",
+				"until" : "Agosto 2016",
+				"position" : "Software developer and Others"
+			}
+		],
+		"education_studies" : [
+			{
+				"grade" : "Some Studies",
+				"college" : "Some University or College",
+				"state" : "Some City",
+				"desc" : "Complete"
+			},
+			{
+				"grade" : "Some Studies",
+				"college" : "Some University or College",
+				"state" : "Some City",
+				"desc" : "2° year taken"
+			},
+			{
+				"grade" : "Some Studies",
+				"college" : "Some University or College",
+				"state" : "Some City",
+				"desc" : "complete"
+			}
+		],
+		"certifications" : [{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		},
+		{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : "Apache, MySQL y XML"
+		},
+		{
+			"course" :"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		},
+		{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		},
+		{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		}],
+		"knowledges" : [
+		{
+			"knowledge" : "Conocimientos en C# .NET",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Conocimientos en Java, Spring Boot",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Conocimientos en MySQL, SQL Server, Stored Procedures.",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Conocimientos en versionamiento (GIT, SVN).",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Otros.",
+			"subItem": ""
+		}]
+	},
+	"EN": {
+		"name" : "Juan Perez",
+		"profession" : "Desarrollador de Software",
+		"profile" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"personalData" : {
+			"nacionality" : "Nacionalidad",
+			"birth" : "XX.XX.XXXX",
+			"language" : "Idioma",
+			"mail" : "xxxxxxxxxxx@xxxxx.xxx",
+			"phone" : "xxxxxxxx",
+			"repo" : "https://xxxxxxxxxxx.com"
+		},
+		"actualPosition" : {
+			"range" : "Software Developer in some Company",
+			"tasks" : "",
+			"technologies" : "Jquery - NodeJS - HTML5",
+			"dateStart" : "2016-06-01"
+		},
+		"featuredTechnologies":["react", "vuejs", "jquery"],
+		"workExperience" : [{
+				"company" : "Some Company",
+				"since" : "Since 2000",
+				"until" : "Present",
+				"position" : "Software developer and Others - Jquery - NodeJS - HTML5 - .NET - C# - Otros."
+			},
+			{
+				"company" : "Some Other Company",
+				"since" : "Enero 2010",
+				"until" : "Febrero 2014",
+				"position" : "DSoftware developer and Others"
+			},
+			{
+				"company" : "Some Other Company",
+				"since" : "Octubre 2014",
+				"until" : "Agosto 2016",
+				"position" : "Software developer and Others"
+			}
+		],
+		"education_studies" : [
+			{
+				"grade" : "Some Studies",
+				"college" : "Some University or College",
+				"state" : "Some City",
+				"desc" : "Complete"
+			},
+			{
+				"grade" : "Some Studies",
+				"college" : "Some University or College",
+				"state" : "Some City",
+				"desc" : "2° year taken"
+			},
+			{
+				"grade" : "Some Studies",
+				"college" : "Some University or College",
+				"state" : "Some City",
+				"desc" : "complete"
+			}
+		],
+		"certifications" : [{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		},
+		{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : "Apache, MySQL y XML"
+		},
+		{
+			"course" :"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		},
+		{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		},
+		{
+			"course" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+			"desc" : ""
+		}],
+		"knowledges" : [
+		{
+			"knowledge" : "Conocimientos en C# .NET",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Conocimientos en Java, Spring Boot",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Conocimientos en MySQL, SQL Server, Stored Procedures.",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Conocimientos en versionamiento (GIT, SVN).",
+			"subItem": ""
+		},
+		{
+			"knowledge" : "Otros.",
+			"subItem": ""
+		}]
+	}
+}
